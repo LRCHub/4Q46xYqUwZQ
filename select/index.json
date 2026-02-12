@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends",
+  "base_artist": "League of Legends",
+  "createdAt": "2026-02-12T08:04:50.644070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current)",
+      "artist": "league of legends",
+      "has_synced": true,
+      "path": "select/01_Legends_Never_Die_(ft._Against_The_Current)_league_of_legends.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/02_Legends_Never_Die_(ft._Against_The_Current)___Worlds_2017_-_League_of_Legends_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "artist": "Video • League of Legends",
+      "has_synced": true,
+      "path": "select/03_Legends_Never_Die_(ft._Against_The_Current)___Worlds_2017_-_League_of_Legends_Video_•_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/04_Legends_Never_Die_(ft._Against_The_Current)___Worlds_2017_-_League_of_Legends_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/05_Legends_Never_Die_(ft._Against_The_Current)_[OFFICIAL_AUDIO]___Worlds_2017_-_Lea_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends",
+      "artist": "Video • League of Legends",
+      "has_synced": true,
+      "path": "select/06_Legends_Never_Die_(ft._Against_The_Current)_[OFFICIAL_AUDIO]___Worlds_2017_-_Lea_Video_•_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/07_Legends_Never_Die_(ft._Against_The_Current)_[OFFICIAL_AUDIO]___Worlds_2017_-_Lea_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/08_Legends_Never_Die_(ft._Against_The_Current)___Worlds_2017_-_League_of_Legends_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/09_Legends_Never_Die_(ft._Against_The_Current)_[OFFICIAL_AUDIO]___Worlds_2017_-_Lea_League_of_Legends.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Legends Never Die",
+      "artist": "League of Legends & アゲインスト・ザ・カレント",
+      "has_synced": false,
+      "path": "select/pl_01_Legends_Never_Die_League_of_Legends_&_アゲインスト・ザ・カレント.txt"
+    }
+  ]
+}
